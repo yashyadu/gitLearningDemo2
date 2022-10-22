@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitLearningDemo2Application {
 
 	public static void main(String[] args) {
-		System.out.println("afa");
+		//removed line
 		SpringApplication.run(GitLearningDemo2Application.class, args);
 	}
 
